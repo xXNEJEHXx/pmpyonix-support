@@ -5,5 +5,5 @@
 <div align="center"><img alt="Discord" src="https://img.shields.io/discord/611714357809905684?color=blue&label=discord&logo=blue&logoColor=blue&style=for-the-badge"></div>
 
 ###  Invita el bot a tu servidor de discord
-Para poder invitar el bot a tu servidor de discord, nada mas haz click al enlace (imágen) que se encuentra en la parte inferior de este texto, te recordamos que nos mandes sugerencias para poder mejorar a cada rato.
+Para poder invitar el bot a tu servidor de discord, nada mas haz click al enlace (imágen) que se encuentra en la parte inferior de este texto, te recordamos que nos mandes sugerencias para poder mejorar a cada rato. En caso de que no funcione la imágen inferior, haz [click aquí](https://discord.com/oauth2/authorize?client_id=697608432244752486&scope=bot&permissions=8)
 <div align="center"><img href="https://discord.com/oauth2/authorize?client_id=697608432244752486&scope=bot&permissions=8" alt="Invite" src="https://img.shields.io/badge/invitar-pmpyonix-lightblue?style=for-the-badge"></div>
